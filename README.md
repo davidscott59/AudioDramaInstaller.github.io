@@ -1,4 +1,4 @@
-# AudioDramaInstall
+# AudioDramaInstaller
 Install instructions
 1. Copy the AudioDramasetup.msi and the setup.exe to a temp location on your computer. (desktop, download, temp).
 2. Run the installer
