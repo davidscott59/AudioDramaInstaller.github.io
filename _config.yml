@@ -2,7 +2,7 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
 title: Audio Drama Release Site
-description: A website to download my latest software releases.
+description: Download my latest software releases.
 show_downloads: true
 github:
   zip_url: https://github.com/davidscott59/AudioDramaInstaller.github.io/releases/download/v1.0.0.2/AudioDramaSetup-v1.0.0.2-Release.zip
