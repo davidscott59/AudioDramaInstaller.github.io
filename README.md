@@ -1,4 +1,4 @@
-# AudioDramaInstaller
+# Audio Drama Installer
 this is the Audio Drama program installer which contains the executable files and dependant files for the program. You may clcik on the **Releases** button to the right of this to go to downloads.
 
 Install instructions
