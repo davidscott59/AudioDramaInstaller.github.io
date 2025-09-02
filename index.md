@@ -3,6 +3,7 @@ layout: default
 title: Audio Drama Releases
 ---
 # Welcome to my release website
+<p>Current version: {{ site.data.version.current }}</p>
 ![Audio Drama](/AudioDrama1.0.0.1.png)
 
 Audio Drama is a lightweight audio playback program designed for users who want flexible control over sound effects and music files. Whether you need to trigger multiple sounds at once, play sounds individually or step through them in a defined sequence, Audio Drama provides a simple, intuitive interface without the complexity of a fully automated show cue system.
