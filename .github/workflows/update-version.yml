@@ -1,0 +1,25 @@
+name: Auto Update Site Version on Release
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  update-data-file:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Update Version in _data/version.yml
+        uses: fjogeleit/yaml-update-action@v0.15.0
+        with:
+          valueFile: '_data/version.yml'
+          propertyPath: 'current'
+          value: ${{ github.event.release.tag_name }}
+          commitChange: true
+          message: 'chore: automated update of site version to ${{ github.event.release.tag_name }}'
+          token: ${{ secrets.GITHUB_TOKEN }}
