@@ -4,7 +4,7 @@ title: Audio Drama Releases
 ---
 # Welcome to my release website
 <p>Current version: {{ site.data.version.current }}</p>
-![Audio Drama](/AudioDrama1.0.0.5.png)
+![Audio Drama](/AudioDrama1.0.0.7.png)
 
 Audio Drama is a lightweight audio playback program designed for users who want flexible control over sound effects and music files. Whether you need to trigger multiple sounds at once, play sounds individually or step through them in a defined sequence, Audio Drama provides a simple, intuitive interface without the complexity of a fully automated show cue system.
 This app is ideal for:
@@ -25,6 +25,8 @@ While originally built with theater in mind, Audio Drama is versatile enough for
 *	Theme parks
 *	Gaming environments
 *	Educational settings
+
+*	In addition to Audio Drama, I have included a light weight audio player called Simple Player. This is basically a playlist style player. Simple drag and drop your files to create your list then save it for later.
 
 This application is <strong>FREE</strong>. However, if you would like to donate a little something to help me in the development process, you may do so in the About section of the app.
 
