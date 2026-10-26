@@ -26,7 +26,8 @@ While originally built with theater in mind, Audio Drama is versatile enough for
 *	Gaming environments
 *	Educational settings
 
-*	In addition to Audio Drama, I have included a light weight audio player called Simple Player. This is basically a playlist style player. Simple drag and drop your files to create your list then play the files.
+*	In addition to Audio Drama, I have included a light weight audio player called Simple Player. This is basically a playlist style player. Simply drag and drop your files to create your list then play the files.
+*	Playlist file can be saved as XML file format that is compatible with the Audio Drama app.
 
 This application is <strong>FREE</strong>. However, if you would like to donate a little something to help me in the development process, you may do so in the About section of the app.
 
